@@ -28,7 +28,7 @@ Welcome! This repository houses all of the assets required to build the website 
 
 ##### Follow us
 
-| 🖥 [Website](https://admission.eshancollege.com/) || 📷 [Instagram](https://www.instagram.com/tracecea?r=nametag) |
+| 🖥 [Website](https://admission.eshancollege.com/) || 📷 [Instagram](https://www.instagram.com/eshaninstitute/?hl=en) |
 
 --------
 </div>
@@ -36,11 +36,10 @@ Welcome! This repository houses all of the assets required to build the website 
 ## To get started
 
 # College Website
-### Welcome to the new official website project of IIIT-Vadodara. 
+### Welcome to the new official website project of EGI 
 
-[![Join the chat at https://gitter.im/iiitv/college_website](https://badges.gitter.im/iiitv/college_website.svg)](https://gitter.im/iiitv/college_website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-We are now live as [official institute website](http://iiitvadodara.ac.in/).
+We are now live as [official institute website](https://admission.eshancollege.com/).
 
 **NOTE**: This repository is no longer related to the live college website, therefore the requests made here for content addition/modifiation are ineffective.
 
