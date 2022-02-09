@@ -63,13 +63,11 @@ We are now live as [official institute website](https://admission.eshancollege.c
         * About
  *  Official Website
 
-# S.E.A-college [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/prashant333.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+# Eshan-college [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/prashant333.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
-
-S.E.A College of Engineering and Technology website.
 
 ### Home page
-![image](image/home.png)
+![image](img/ss.png)
 
 
 
@@ -84,8 +82,7 @@ S.E.A College of Engineering and Technology website.
 - HTML
 - CSS
 - JS
-- 
-- 
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -95,7 +92,7 @@ S.E.A College of Engineering and Technology website.
 
 ## Contributing
 
-**1.**  Fork [this](https://github.com/Ayush7614/php-college-form-website-project.git) repository.
+**1.**  Fork [this](https://github.com/kanchan905/College-Website) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -165,7 +162,7 @@ git push -u origin <your_branch_name>
  
 ## ❤️ Project Admin
 
-|                                     <a href="https://github.com/Ayush7614"><img src="https://avatars.githubusercontent.com/u/67006255?s=400&u=c0e16c3bba31328a028cfcca4b1fa7599509f905&v=4" width=150px height=150px /></a>                                      |
+|                                     <a href="https://github.com/kanchan905/College-Website"><img src="https://i.dailymail.co.uk/1s/2022/01/29/22/53530233-10455417-image-m-44_1643494336123.jpg" width=150px height=150px /></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[kanchan](https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/)**                                                                                    |
 
